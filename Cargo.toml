@@ -1,0 +1,8 @@
+[package]
+name = "fescan"
+version = "0.1.0"
+authors = ["mmath"]
+
+[dependencies]
+random_choice = "*"
+rand = "0.4"
